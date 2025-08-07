@@ -1,6 +1,5 @@
-# Olá! Eu sou o Guilherme 👋
-
-Bem-vindo ao meu GitHub! Aqui vais encontrar os meus projetos e estatísticas.
+# Hello! I'm Guilherme 👋  
+Welcome to my GitHub! Here you will find my projects.
 
 ## 📊 GitHub Stats
 
