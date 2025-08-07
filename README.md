@@ -26,5 +26,8 @@ Welcome to my GitHub! Here you will find my projects.
 
 ## 🔗 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teu-linkedin-aqui)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/teu-linkedin-aqui/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+</p>
