@@ -1,8 +1,9 @@
-## Welcome to my GitHub! Here you will find my projects.
-
 ## Status
+
 <p align="center">
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeA50467&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeA50467&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
 </p>
 
 
