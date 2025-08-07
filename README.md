@@ -1,4 +1,10 @@
-## Status
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+## Statistics
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,10 +30,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
 </p>
 
-## Social
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-  </a>
-</p>
