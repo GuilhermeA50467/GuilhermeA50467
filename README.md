@@ -1,13 +1,11 @@
 # Hello! I'm Guilherme 👋  
 Welcome to my GitHub! Here you will find my projects.
 
-## 📊 GitHub Stats
-
 ![Meus Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeA50467&show_icons=true&theme=tokyonight)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeA50467&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
@@ -24,7 +22,7 @@ Welcome to my GitHub! Here you will find my projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
 </p>
 
-## 🔗 Social
+## Social
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
