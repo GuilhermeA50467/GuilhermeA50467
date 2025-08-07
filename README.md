@@ -1,3 +1,4 @@
+## About me
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
@@ -5,7 +6,6 @@
 </p>
 
 ## Statistics
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeA50467&layout=compact&theme=tokyonight" alt="Top Languages"/>
@@ -14,7 +14,6 @@
 
 
 ## Languages & Tools
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
