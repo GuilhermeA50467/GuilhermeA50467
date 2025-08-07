@@ -2,9 +2,9 @@
   Welcome to my GitHub! Here you will find my projects.
 </p>
 
-<p align="center">
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeA50467&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeA50467&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Languages & Tools
 
