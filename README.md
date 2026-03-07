@@ -5,14 +5,6 @@
   </a>
 </p>
 
-## Statistics
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeA50467&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</p>
-
-
 ## Languages & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
