@@ -8,12 +8,12 @@ I enjoy building scalable systems and working on real-world problems, especially
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎯 Focused on **Backend Development & System Design**
-- 🧠 Interested in **AI Infrastructure & Distributed Systems**
-- 🛠️ Experience with **Full-Stack Development**
-- 📈 Always learning and building side projects
+- Focused on **Backend Development & System Design**
+- Interested in **AI Infrastructure & Distributed Systems**
+- Experience with **Full-Stack Development**
+- Always learning and building side projects
 
 ---
 
@@ -23,6 +23,9 @@ I enjoy building scalable systems and working on real-world problems, especially
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
 </p>
+
+📧 guilhermempcoutinho11796@gmail.com  
+🌍 Lisbon, Portugal 
 
 ---
 
@@ -82,20 +85,10 @@ Full-stack platform for booking padel courts.
 
 ---
 
-## 🧩 Interests
+## Interests
 
 - Distributed Systems  
 - Backend Engineering  
 - AI Infrastructure  
 - Scalable Architectures  
 
----
-
-## 📫 Contact
-
-📧 guilhermempcoutinho11796@gmail.com  
-🌍 Lisbon, Portugal  
-
----
-
-⭐ Always open to new opportunities and collaborations!
