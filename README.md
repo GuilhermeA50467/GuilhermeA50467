@@ -18,17 +18,21 @@ I enjoy building scalable systems and working on real-world problems, especially
 ---
 
 ## 🌐 Connect with me
+
 <p align="center">
+  <a href="mailto:guilhermempcoutinho11796@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-📧 guilhermempcoutinho11796@gmail.com  
-🌍 Lisbon, Portugal 
+<p align="center">
+  📍 Lisbon, Portugal
+</p>
 
 ---
-
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
