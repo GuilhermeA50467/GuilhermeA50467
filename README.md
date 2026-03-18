@@ -21,4 +21,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
 </p>
 
-com base no cv que te mandei melhora o meu perfil aqui
