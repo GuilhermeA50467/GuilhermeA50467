@@ -1,24 +1,101 @@
-## About me
+# 👋 Hey, I'm Guilherme Coutinho
+
+🎓 Final-year Computer Science and Engineering student @ ISEL  
+📍 Lisbon, Portugal  
+💻 Passionate about Backend Engineering, Distributed Systems & AI Infrastructure  
+
+I enjoy building scalable systems and working on real-world problems, especially in backend and full-stack environments. I'm always looking to learn new technologies and improve my engineering skills.
+
+---
+
+## 🚀 About Me
+
+- 🎯 Focused on **Backend Development & System Design**
+- 🧠 Interested in **AI Infrastructure & Distributed Systems**
+- 🛠️ Experience with **Full-Stack Development**
+- 📈 Always learning and building side projects
+
+---
+
+## 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
 </p>
 
-## Languages & Tools
+---
+
+## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
 </p>
 
-com base no cv que te mandei melhora o meu perfil aqui
+---
+
+## 📂 Projects
+
+### 🧠 OmniAI Gateway
+**Tech:** Kotlin, Ktor, AI, MCP  
+Infrastructure project that acts as a unified gateway for multiple Large Language Models (LLMs).  
+
+- Abstracts providers like OpenAI, Anthropic, etc.
+- Eliminates vendor lock-in
+- Designed for scalability and modular integration  
+- Focus on AI infrastructure and backend architecture  
+
+---
+
+### 🎲 Chelas Multiplayer Poker Dice
+**Tech:** Kotlin, Spring Boot, React, TypeScript, PostgreSQL, Docker  
+
+Full-stack multiplayer web application for Poker Dice.
+
+- Real-time gameplay using **Server-Sent Events (SSE)**
+- Lobby system and player interactions
+- Backend in Kotlin + Spring Boot
+- Frontend in React + TypeScript  
+- Emphasis on real-time systems and web architecture  
+
+---
+
+### 🎾 Rental Padel App
+**Tech:** Kotlin, JavaScript, PostgreSQL  
+
+Full-stack platform for booking padel courts.
+
+- Search and booking system
+- User-friendly interface for managing reservations
+- Backend + frontend integration
+- Focus on practical application development  
+
+---
+
+## 🧩 Interests
+
+- Distributed Systems  
+- Backend Engineering  
+- AI Infrastructure  
+- Scalable Architectures  
+
+---
+
+## 📫 Contact
+
+📧 guilhermempcoutinho11796@gmail.com  
+🌍 Lisbon, Portugal  
+
+---
+
+⭐ Always open to new opportunities and collaborations!
