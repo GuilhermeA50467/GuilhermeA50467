@@ -16,15 +16,13 @@ I enjoy building scalable systems and working on real-world problems, especially
 - Always learning and building side projects
 
 ---
-
-## 🌐 Connect with me
-
+## Connect Me
 <p align="center">
   <a href="mailto:guilhermempcoutinho11796@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B4B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 ---
