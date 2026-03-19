@@ -82,10 +82,4 @@ Full-stack platform for booking padel courts.
 
 ---
 
-## Interests
-
-- Distributed Systems  
-- Backend Engineering  
-- AI Infrastructure  
-- Scalable Architectures  
 
