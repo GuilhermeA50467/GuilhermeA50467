@@ -1,43 +1,90 @@
-Guilherme Coutinho
-Software Engineer · Lisbon, Portugal
+# 👋 Hey, I'm Guilherme Coutinho
 
-BSc Computer Science & Engineering · ISEL · Final Year · Jun 2026 · Full-time / New Grad
+🎓 Final-year Computer Science and Engineering student @ ISEL  
+📍 Lisbon, Portugal  
+💻 Passionate about Backend Engineering, Distributed Systems & AI Infrastructure  
 
-Backend Engineer focused on Distributed Systems and AI Infrastructure.
-
-
-### Projects
-
-**OmniAI Gateway** · active  
-Unified gateway for multiple LLMs (OpenAI, Anthropic, etc.). Abstracts providers behind a single consistent interface, eliminating vendor lock-in. Designed for high scalability and easy provider integration.  
-Kotlin · Ktor · MCP · Docker
-
-**Chelas Multiplayer Poker Dice** · full-stack  
-Real-time multiplayer Poker Dice game with lobby system and live gameplay. Built with Server-Sent Events for state synchronization under concurrent users.  
-Kotlin · Spring Boot · React · TypeScript · PostgreSQL · SSE · Docker
-
-**Rental Padel App**  
-Full-stack platform for searching and booking padel courts. Focused on clean architecture, intuitive UX and reliable reservation flow.  
-Kotlin · Spring Boot · PostgreSQL · JavaScript
-
-### Stack
-**Languages**  
-Kotlin · Java · TypeScript · JavaScript · C
-
-**Backend**  
-Spring Boot · Ktor · REST · DDD · Hexagonal Architecture
-
-**Data**  
-PostgreSQL · MongoDB
-
-**Infra & Observability**  
-Docker · GitHub Actions · Linux
-
-**AI / Tools**  
-MCP · LLM APIs · LangChain4j
+I enjoy building scalable systems and working on real-world problems, especially in backend and full-stack environments. I'm always looking to learn new technologies and improve my engineering skills.
 
 ---
 
-I care about building systems that are reliable at scale, well-architected and production-ready. Currently deepening my knowledge in distributed systems and AI infrastructure while finishing my degree.
+## About Me
 
-[github.com/guilhermempcoutinho](https://github.com/guilhermempcoutinho) · [linkedin.com/in/guilherme-coutinho-b5a771315](https://www.linkedin.com/in/guilherme-coutinho-b5a771315) · guilhermempcoutinho11796@gmail.com · Lisbon, Portugal
+- Focused on **Backend Development & System Design**
+- Interested in **AI Infrastructure & Distributed Systems**
+- Experience with **Full-Stack Development**
+- Always learning and building side projects
+
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="mailto:guilhermempcoutinho11796@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-coutinho-b5a771315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+</p>
+
+---
+
+## Projects
+
+### OmniAI Gateway
+
+**Tech:** Kotlin, Ktor, AI, MCP  
+
+Infrastructure project that acts as a unified gateway for multiple Large Language Models (LLMs).
+
+- Abstracts providers like OpenAI, Anthropic, etc.
+- Eliminates vendor lock-in
+- Designed for scalability and modular integration
+- Focus on AI infrastructure and backend architecture
+
+---
+
+### Chelas Multiplayer Poker Dice
+
+**Tech:** Kotlin, Spring Boot, React, TypeScript, PostgreSQL, Docker  
+
+Full-stack multiplayer web application for Poker Dice.
+
+- Real-time gameplay using **Server-Sent Events (SSE)**
+- Lobby system and player interactions
+- Backend in Kotlin + Spring Boot
+- Frontend in React + TypeScript
+- Emphasis on real-time systems and web architecture
+
+---
+
+### Rental Padel App
+
+**Tech:** Kotlin, JavaScript, PostgreSQL  
+
+Full-stack platform for booking padel courts.
+
+- Search and booking system
+- User-friendly interface for managing reservations
+- Backend + frontend integration
+- Focus on practical application development
