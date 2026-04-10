@@ -1,19 +1,18 @@
 # 👋 Hey, I'm Guilherme Coutinho
 
-🎓 Final-year Computer Science and Engineering student @ ISEL  
+🎓 Final-year Computer Science & Engineering Student @ ISEL  
 📍 Lisbon, Portugal  
-💻 Passionate about Backend Engineering, Distributed Systems & AI Infrastructure  
 
-I enjoy building scalable systems and working on real-world problems, especially in backend and full-stack environments. I'm always looking to learn new technologies and improve my engineering skills.
+Backend engineer passionate about building **scalable systems**, **distributed architectures**, and **AI infrastructure**. I enjoy solving real-world problems with clean, efficient code and am always looking to improve as a software engineer.
 
 ---
 
 ## About Me
 
-- Focused on **Backend Development & System Design**
-- Interested in **AI Infrastructure & Distributed Systems**
-- Experience with **Full-Stack Development**
-- Always learning and building side projects
+- Focused on **Backend Development** and **System Design**
+- Strong interest in **Distributed Systems** and **AI Infrastructure**
+- Experienced in **Full-Stack Development** (backend-first approach)
+- Always learning and working on side projects
 
 ---
 
@@ -52,39 +51,24 @@ I enjoy building scalable systems and working on real-world problems, especially
 ## Projects
 
 ### OmniAI Gateway
+**Tech:** Kotlin, Ktor, MCP
 
-**Tech:** Kotlin, Ktor, AI, MCP  
+Infrastructure project that acts as a unified gateway for multiple Large Language Models (OpenAI, Anthropic, etc.).  
 
-Infrastructure project that acts as a unified gateway for multiple Large Language Models (LLMs).
-
-- Abstracts providers like OpenAI, Anthropic, etc.
-- Eliminates vendor lock-in
-- Designed for scalability and modular integration
-- Focus on AI infrastructure and backend architecture
-
----
+Eliminates vendor lock-in by providing a clean, consistent API and was designed with scalability and modularity in mind.
 
 ### Chelas Multiplayer Poker Dice
+**Tech:** Kotlin, Spring Boot, React, TypeScript, PostgreSQL, Docker
 
-**Tech:** Kotlin, Spring Boot, React, TypeScript, PostgreSQL, Docker  
+Full-stack real-time multiplayer web game.  
 
-Full-stack multiplayer web application for Poker Dice.
-
-- Real-time gameplay using **Server-Sent Events (SSE)**
-- Lobby system and player interactions
-- Backend in Kotlin + Spring Boot
-- Frontend in React + TypeScript
-- Emphasis on real-time systems and web architecture
-
----
+Features a complete lobby system and live gameplay using Server-Sent Events (SSE). Focused on real-time communication, game state management, and smooth user experience.
 
 ### Rental Padel App
+**Tech:** Kotlin, JavaScript, PostgreSQL
 
-**Tech:** Kotlin, JavaScript, PostgreSQL  
+Full-stack platform for booking padel courts.  
 
-Full-stack platform for booking padel courts.
+Includes court search, reservation management, and user-friendly interface. Developed both backend and frontend with focus on usability and reliability.
 
-- Search and booking system
-- User-friendly interface for managing reservations
-- Backend + frontend integration
-- Focus on practical application development
+---
